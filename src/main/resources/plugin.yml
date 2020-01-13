@@ -1,0 +1,9 @@
+name: MarkersSpigot
+version: ${project.version}
+main: com.rocketmail.vaishnavanil.markers.MarkersSpigot
+api-version: 1.13
+prefix: Markers
+authors: [yugikid1]
+description: Allows players to mark locations/set waypoints to allow players to go to select positions
+commands:
+  marker:
